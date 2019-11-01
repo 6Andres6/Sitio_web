@@ -1,0 +1,22 @@
+
+  .boton1{
+ 
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-family: helvetica;
+    font-weight: 40;
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+
+  }
+  .boton1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  
+  }
+</style>
